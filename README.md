@@ -8,10 +8,8 @@
 <p align = "center"> 
   
   ## Germaine Genove 
-
 **`Frontend Developer`**
 </p>
----
 
 ## 👩‍💻 About Me  
 💡 Front-End Developer | Exploring Full-Stack Development  
