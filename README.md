@@ -3,8 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Maine!%20👩‍💻&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
-**`Frontend Developer`**
+----
 
+<p align = "center"> 
+  
+  ## Germaine Genove 
+
+**`Frontend Developer`**
+</p>
 ---
 
 ## 👩‍💻 About Me  
