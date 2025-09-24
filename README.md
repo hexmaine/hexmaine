@@ -2,12 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Maine!%20👩‍💻&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
-
-<p align = "center"> 
   
   ## Germaine Genove 
 **`Frontend Developer`**
-</p>
 
 ## 👩‍💻 About Me  
 💡 Front-End Developer | Exploring Full-Stack Development  
